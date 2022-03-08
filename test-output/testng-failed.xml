@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Emrit POC]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" name="Smoke Tests(failed)">
+    <classes>
+      <class name="test_cases.SmokeTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="setupDriver"/>
+          <include name="contactUs"/>
+        </methods>
+      </class> <!-- test_cases.SmokeTest -->
+    </classes>
+  </test> <!-- Smoke Tests(failed) -->
+</suite> <!-- Failed suite [Emrit POC] -->

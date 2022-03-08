@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to https://emrit.io/about/ page<br>]]>
+    </line>
+    <line>
+      <![CDATA[Page load time : 0.558 seconds<br>]]>
+    </line>
+    <line>
+      <![CDATA[------------------------ LOG ERROR STARTED ------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[------------------------ LOG ERROR ENDED ------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to https://emrit.io/partners/ page<br>]]>
+    </line>
+    <line>
+      <![CDATA[Page load time : 0.626 seconds<br>]]>
+    </line>
+    <line>
+      <![CDATA[------------------------ LOG ERROR STARTED ------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+    </line>
+    <line>
+      <![CDATA[------------------------ LOG ERROR ENDED ------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Hamburger menu<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'Sign Up' link<br>]]>
+    </line>
+    <line>
+      <![CDATA[Email email address : test_jay.kuhic@mailinator.com<br>]]>
+    </line>
+    <line>
+      <![CDATA[Email First Name : Test_Mauricio<br>]]>
+    </line>
+    <line>
+      <![CDATA[Email Last Name : Test_Bosco<br>]]>
+    </line>
+    <line>
+      <![CDATA[Email Phone Number : 1-727-252-5237<br>]]>
+    </line>
+    <line>
+      <![CDATA[Select Country : United States of America<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter Address and select<br>]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Age<br>]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Terms and Conditions<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'SIGN UP' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify Sign Up verification screen display<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' link<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify validation message for the blank email and password<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter email address :testuser@mailinator.com<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify validation message for the blank password<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter invalid Password<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify validation message for the invalid credentials<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter valid Password<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'BECOME AN ENTERPRISE PARTNER' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'BECOME AN ENTERPRISE PARTNER' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter First Name : Test_Connie<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter Last Name : Test_Littel<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter Email : test_clifton.bashirian@mailinator.com<br>]]>
+    </line>
+    <line>
+      <![CDATA[Enter Company : Test_Wyman-VonRueden<br>]]>
+    </line>
+    <line>
+      <![CDATA[Select Country : United States*<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'CONTACT US' button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify Contact Us form submitted successfully<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'EMRIT FOR BUSINESS' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'EMRIT FOR BUSINESS' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'ABOUT US' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'ABOUT US' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'SUPPORT' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'SUPPORT' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'LOGIN' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'LOGIN' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Hamburger menu<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'SIGN UP' link<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'SIGN UP' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Hamburger menu<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'BLOG' link<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'BLOG' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Hamburger menu<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'FAQ' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'FAQ' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'Terms & Conditions' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'Terms & Conditions' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on 'Privacy Policy' link.<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify 'Privacy Policy' link redirection working properly<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-08T10:21:29 EST" name="Emrit POC" finished-at="2022-03-08T10:22:35 EST" duration-ms="65876">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T10:21:29 EST" name="Performance Tests" finished-at="2022-03-08T10:21:41 EST" duration-ms="11686">
+      <class name="test_cases.PerformanceTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:29 EST" name="setupDriver" finished-at="2022-03-08T10:21:34 EST" duration-ms="4574" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="aboutUsPage()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:34 EST" name="aboutUsPage" finished-at="2022-03-08T10:21:35 EST" duration-ms="1006" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigate to https://emrit.io/about/ page<br>]]>
+            </line>
+            <line>
+              <![CDATA[Page load time : 0.558 seconds<br>]]>
+            </line>
+            <line>
+              <![CDATA[------------------------ LOG ERROR STARTED ------------------------<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[------------------------ LOG ERROR ENDED ------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aboutUsPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:35 EST" name="closeDriver" finished-at="2022-03-08T10:21:35 EST" duration-ms="671" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:35 EST" name="setupDriver" finished-at="2022-03-08T10:21:39 EST" duration-ms="3355" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="partnersPage()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:39 EST" name="partnersPage" finished-at="2022-03-08T10:21:40 EST" duration-ms="1370" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigate to https://emrit.io/partners/ page<br>]]>
+            </line>
+            <line>
+              <![CDATA[Page load time : 0.626 seconds<br>]]>
+            </line>
+            <line>
+              <![CDATA[------------------------ LOG ERROR STARTED ------------------------<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[javascript 0:12 Uncaught TypeError: Cannot read properties of undefined (reading 'push')<br>]]>
+            </line>
+            <line>
+              <![CDATA[------------------------ LOG ERROR ENDED ------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- partnersPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.PerformanceTest@5b03b9fe]" started-at="2022-03-08T10:21:40 EST" name="closeDriver" finished-at="2022-03-08T10:21:41 EST" duration-ms="670" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- test_cases.PerformanceTest -->
+    </test> <!-- Performance Tests -->
+    <test started-at="2022-03-08T10:21:41 EST" name="Smoke Tests" finished-at="2022-03-08T10:22:35 EST" duration-ms="54175">
+      <class name="test_cases.SmokeTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:21:41 EST" name="setupDriver" finished-at="2022-03-08T10:21:44 EST" duration-ms="3531" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="signup()[pri:1, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:21:44 EST" name="signup" finished-at="2022-03-08T10:21:53 EST" duration-ms="8866" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Hamburger menu<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'Sign Up' link<br>]]>
+            </line>
+            <line>
+              <![CDATA[Email email address : test_jay.kuhic@mailinator.com<br>]]>
+            </line>
+            <line>
+              <![CDATA[Email First Name : Test_Mauricio<br>]]>
+            </line>
+            <line>
+              <![CDATA[Email Last Name : Test_Bosco<br>]]>
+            </line>
+            <line>
+              <![CDATA[Email Phone Number : 1-727-252-5237<br>]]>
+            </line>
+            <line>
+              <![CDATA[Select Country : United States of America<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter Address and select<br>]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Age<br>]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Terms and Conditions<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'SIGN UP' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify Sign Up verification screen display<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:21:53 EST" name="closeDriver" finished-at="2022-03-08T10:21:54 EST" duration-ms="681" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:21:54 EST" name="setupDriver" finished-at="2022-03-08T10:21:57 EST" duration-ms="3354" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="login()[pri:2, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:21:57 EST" name="login" finished-at="2022-03-08T10:22:00 EST" duration-ms="2732" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on 'LOGIN' link<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'LOGIN' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify validation message for the blank email and password<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter email address :testuser@mailinator.com<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'LOGIN' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify validation message for the blank password<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter invalid Password<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'LOGIN' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify validation message for the invalid credentials<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter valid Password<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'LOGIN' button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:00 EST" name="closeDriver" finished-at="2022-03-08T10:22:01 EST" duration-ms="679" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:01 EST" name="setupDriver" finished-at="2022-03-08T10:22:04 EST" duration-ms="3323" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="contactUs()[pri:3, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:04 EST" name="contactUs" finished-at="2022-03-08T10:22:09 EST" duration-ms="5103" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertFalse(Assert.java:78)
+at org.testng.Assert.assertFalse(Assert.java:88)
+at test_cases.SmokeTest.contactUs(SmokeTest.java:141)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Click on 'BECOME AN ENTERPRISE PARTNER' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'BECOME AN ENTERPRISE PARTNER' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter First Name : Test_Connie<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter Last Name : Test_Littel<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter Email : test_clifton.bashirian@mailinator.com<br>]]>
+            </line>
+            <line>
+              <![CDATA[Enter Company : Test_Wyman-VonRueden<br>]]>
+            </line>
+            <line>
+              <![CDATA[Select Country : United States*<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'CONTACT US' button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify Contact Us form submitted successfully<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:09 EST" name="closeDriver" finished-at="2022-03-08T10:22:10 EST" duration-ms="651" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:10 EST" name="setupDriver" finished-at="2022-03-08T10:22:13 EST" duration-ms="3520" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session started -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="pageLinks()[pri:4, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:13 EST" name="pageLinks" finished-at="2022-03-08T10:22:34 EST" duration-ms="21023" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on 'EMRIT FOR BUSINESS' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'EMRIT FOR BUSINESS' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'ABOUT US' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'ABOUT US' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'SUPPORT' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'SUPPORT' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'LOGIN' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'LOGIN' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Hamburger menu<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'SIGN UP' link<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'SIGN UP' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Hamburger menu<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'BLOG' link<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'BLOG' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Hamburger menu<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'FAQ' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'FAQ' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'Terms & Conditions' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'Terms & Conditions' link redirection working properly<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on 'Privacy Policy' link.<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify 'Privacy Policy' link redirection working properly<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageLinks -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:test_cases.SmokeTest@210ab13f]" started-at="2022-03-08T10:22:34 EST" name="closeDriver" finished-at="2022-03-08T10:22:35 EST" duration-ms="703" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------- Browser session ended -----------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- test_cases.SmokeTest -->
+    </test> <!-- Smoke Tests -->
+  </suite> <!-- Emrit POC -->
+</testng-results>

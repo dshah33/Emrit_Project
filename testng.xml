@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Emrit POC" thread-count="1" parallel="false">
+
+	<test name="Performance Tests">
+		<classes>
+			<class name="test_cases.PerformanceTest" />
+		</classes>
+	</test>
+
+	<test name="Smoke Tests">
+		<classes>
+			<class name="test_cases.SmokeTest" />
+		</classes>
+	</test>
+
+</suite>
